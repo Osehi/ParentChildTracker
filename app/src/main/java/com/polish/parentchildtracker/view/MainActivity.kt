@@ -1,7 +1,8 @@
-package com.polish.parentchildtracker
+package com.polish.parentchildtracker.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.polish.parentchildtracker.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
