@@ -17,6 +17,7 @@
         />
 
     <com.google.android.material.tabs.TabLayout
+        android:id="@+id/onBoarding_fragment_tl"
         android:layout_width="wrap_content"
         android:layout_height="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
