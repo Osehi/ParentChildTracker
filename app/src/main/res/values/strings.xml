@@ -2,4 +2,6 @@
     <string name="app_name">ParentChildTracker</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onBoarding_screen_one_cd">OnBoarding Screen One</string>
+    <string name="onBoarding_screen_two_cd">OnBoarding Screen Two</string>
 </resources>
